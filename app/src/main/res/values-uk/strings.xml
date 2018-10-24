@@ -19,7 +19,7 @@
     <string name="cancel">Скасувати</string>
     <string name="wallet_name">Назва Гаманця</string>
     <string name="create">Створити</string>
-    <!--<string name="chain">Блокчейн</string>-->
+    <string name="chain">Блокчейн</string>
     <string name="available">ДОСТУПНО</string>
     <string name="work_in_progress">(в розробці)</string>
     <string name="soon">В РОЗРОБЦІ</string>

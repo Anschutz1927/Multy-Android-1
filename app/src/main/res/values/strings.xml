@@ -202,7 +202,7 @@
     <string name="view_in_blockchain">View in Blockchain</string>
     <string name="multy_item_thanks">We really appreciate your support of Multy. By donating you help us to bring blockchain technology one step closer to ordinary life</string>
     <string name="thank_you">Thank you for donation!</string>
-    <string name="zero">0</string>
+    <string name="zero" translatable="false">0</string>
     <string name="in_mempool">Transaction In Mempool</string>
     <string name="no_information">Information not found</string>
     <string name="database_error">Database error</string>
@@ -214,8 +214,8 @@
     <string name="address">Address</string>
     <string name="amount">amount</string>
     <string name="bitcoin">bitcoin</string>
-    <string name="push_id">push_id</string>
-    <string name="chain_id">chain_id</string>
+    <string name="push_id" translatable="false">push_id</string>
+    <string name="chain_id" translatable="false">chain_id</string>
     <string name="no_balance">Not enough amount on chosen wallet!</string>
     <string name="available_amount">Available: %s</string>
     <string name="select_an_addresses">SELECT AN ADDRESS TO VIEW PRIVATE KEY</string>
