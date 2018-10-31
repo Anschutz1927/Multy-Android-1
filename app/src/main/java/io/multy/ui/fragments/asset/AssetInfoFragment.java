@@ -235,7 +235,7 @@ public class AssetInfoFragment extends BaseFragment implements AppBarLayout.OnOf
         final String tokenCoinTicker = erc20Token == null ? "default ticker" : erc20Token.getTicker();
         final String tokenCoinName = erc20Token == null ? "default name" : erc20Token.getName();
         //todo notify views
-    } 
+    }    
 
     private void refreshWallet() {
         swipeRefreshLayout.setRefreshing(false);
